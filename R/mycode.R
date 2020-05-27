@@ -5,6 +5,8 @@
 #' @param y Second number 
 #' 
 #' @rdname number-functions
+#' 
+#' @export
 addNumbers <- function(x, y) {
   x + y
 }
